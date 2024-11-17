@@ -1,6 +1,10 @@
 #Aplicación de Gestión de Encuestas
+
+
 ###📄 Descripción del Proyecto
-- Este proyecto es una aplicación web desarrollada con Angular 18, diseñada para gestionar encuestas. La aplicación permite a los usuarios autenticarse, navegar entre diferentes secciones: encuestas, preguntas y tipos de preguntas.y gestionar datos mediante una interfaz interactiva y responsiva.
+- Este proyecto es una aplicación web desarrollada con Angular 18, diseñada para gestionar encuestas.
+- La aplicación permite a los usuarios autenticarse, navegar entre diferentes secciones: encuestas,
+-  preguntas y tipos de preguntas.y gestionar datos mediante una interfaz interactiva y responsiva.
 
 
 
@@ -43,6 +47,12 @@ Cada opción redirige a la página correspondiente para gestionar los registros.
 
 ###📝 Notas Adicionales
 
+- Esta aplicación es un mockup, no contiene un backed real
+- El proyecto es responsive y se adapta a diferentes tamaños de pantalla.
+
+
+
+###FIN
 - Esta aplicación es un mockup, no contiene un backed real
 - El proyecto es responsive y se adapta a diferentes tamaños de pantalla.
 
